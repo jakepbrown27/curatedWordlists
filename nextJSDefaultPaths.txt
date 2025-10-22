@@ -215,6 +215,11 @@ public/apple-icon.png
 /app/.next/server/
 .next/server/pages/
 /app/.next/server/pages/
+/app/.next/server/pages/api/auth
+/app/.next/server/pages/api/auth/%5B...nextauth%5D.js
+.next/server/pages/
+.next/server/pages/api/auth
+.next/server/pages/api/auth/%5B...nextauth%5D.js
 .next/server/pages-manifest.json
 /app/.next/server/pages-manifest.json
 .next/server/app-manifest.json
@@ -397,3 +402,4 @@ instrumentation.jsx
 /app/instrumentation.jsx
 mdx-components.jsx
 /app/mdx-components.jsx
+app/.next/server/

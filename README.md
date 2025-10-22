@@ -1,1 +1,1 @@
-Nothing particularly fascinating. Mostly used for server enumeration via LFI
+Nothing particularly fascinating. Mostly used for service enumeration via LFI

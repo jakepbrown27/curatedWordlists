@@ -217,6 +217,10 @@ public/apple-icon.png
 /app/.next/server/pages/
 /app/.next/server/pages/api/auth
 /app/.next/server/pages/api/auth/%5B...nextauth%5D.js
+/app/.next/server/pages/api/auth/[...nextauth].js
+/app/.next/server/pages/api/auth/%5B...nextauth.js
+.next/server/pages/api/auth/[...nextauth].js
+.next/server/pages/api/auth/%5B...nextauth.js
 .next/server/pages/
 .next/server/pages/api/auth
 .next/server/pages/api/auth/%5B...nextauth%5D.js

@@ -48,8 +48,6 @@ mdx-components.ts
 /app/mdx-components.ts
 mdx-components.jsx
 /app/mdx-components.jsx
-
-# Middleware / server hooks
 middleware.js
 /app/middleware.js
 middleware.ts
